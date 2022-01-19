@@ -1,4 +1,11 @@
 Hello Git,
+<<<<<<< HEAD
 updated a file
 
 hellooo
+=======
+updated a file,
+hi code udpate
+
+new udpate again
+>>>>>>> new_branch1
